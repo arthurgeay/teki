@@ -7,6 +7,14 @@
 ## Technologies utilisées
 - **[Swift](https://developer.apple.com/swift/)** - Langage de programmation pour iOS
 
+## Fonctionnement
+
+L'application ne propose qu'une seule page.
+Un bouton permet de générer une nouvelle citation avec le nom d'une personne connue.
+
+Une fois que le bouton de génération est cliqué, la citation s'affiche.
+On peut rejouer autant de fois que l'on veut le processus de génération d'une citation.
+
 ## Auteur
 
 👤 **Arthur Geay**
